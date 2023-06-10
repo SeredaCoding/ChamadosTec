@@ -4,7 +4,6 @@
  Sistema de Login e Registro de Usuários com hierárquias: Administrador e Usuário.
  Abertura, Registro e Consulta de chamados, podendo usuários de hierárquia administrador consultar chamados alheios.
  
- Conta com privilégio de ADM:
  --------------------------------------------------------------------
  Conta com privilégio de ADM: Login: adm@teste.com Senha: *Suporte
  --------------------------------------------------------------------
