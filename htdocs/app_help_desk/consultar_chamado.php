@@ -116,7 +116,7 @@
                   ?>
 
 
-                  <div class="card mb-3 bg-light col-6">
+                  <div class="card mb-3 bg-light col-lg-6">
                     <div class="card-body col-12">
                       <div class="col-12">
                         <h5 class="card-title"><?=$chamado_dados[1]; ?></h5>
